@@ -7,5 +7,8 @@ def je_praštevilo(n):
     return True
 
 for x in range(2, 201):
-    if je_praštevilo(x):
+    
         print(x)
+
+        
+        vkghjkbhjhhguzgol
