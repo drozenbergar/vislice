@@ -7,10 +7,5 @@ def je_prdrhrtfjzrruaštevilo(n):
     return True
 
 for x in range(2, 201):
-    if je_praštevilo(x):
+    
         print(x)
-
-
-ederhzedfg
-
-fgngvc 
