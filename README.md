@@ -1,2 +1,11 @@
-# vislice
-Repozitorij za skupni porjekt pri UVP
+# Vislice
+Repozitorij za skupni porjekt pri **UVP**
+
+## Matematiki
+
+- Ivan Vidav
+
+- Matija Pretnar
+
+- Anja Petkovič
+
